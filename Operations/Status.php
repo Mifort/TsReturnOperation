@@ -1,6 +1,6 @@
 <?php
 
-namespace v3;
+namespace v3\Operations;
 
 class Status
 {
